@@ -1,1 +1,12 @@
-# oAuth-2.0
+# oAuth-2.0![Screenshot from 2021-11-25 09-59-11](https://user-images.githubusercontent.com/67773953/143386016-6b0f2afe-1fae-48d8-bcad-9c45803f46c3.png)
+![Screenshot from 2021-11-25 10-53-29](https://user-images.githubusercontent.com/67773953/143386025-cc64fd2c-9771-4512-b20f-42147e346059.png)
+![Screenshot from 2021-11-25 10-53-33](https://user-images.githubusercontent.com/67773953/143386029-caf241e6-b141-42f5-83d6-c2cf79621309.png)
+![Screenshot from 2021-11-25 10-53-50](https://user-images.githubusercontent.com/67773953/143386032-d493a275-f771-4981-9020-46fe8c5b3271.png)
+![Screenshot from 2021-11-25 10-53-58](https://user-images.githubusercontent.com/67773953/143386033-dfd39b89-212f-4d3b-a09e-d0dc5b6f1644.png)
+![Screenshot from 2021-11-25 10-54-13](https://user-images.githubusercontent.com/67773953/143386036-2035f2d6-5c0f-4579-bde5-ce2c50388063.png)
+![Screenshot from 2021-11-25 10-55-24](https://user-images.githubusercontent.com/67773953/143386037-f1933779-b4c1-4061-a550-f93461b39247.png)
+![Screenshot from 2021-11-25 10-55-41](https://user-images.githubusercontent.com/67773953/143386052-e6df3167-8c23-4895-8b70-792cd50f1381.png)
+![Screenshot from 2021-11-25 10-59-47](https://user-images.githubusercontent.com/67773953/143386062-e5c2ac5e-2b6e-4dbe-b7c8-11fd70458f83.png)
+![Screenshot from 2021-11-25 10-59-53](https://user-images.githubusercontent.com/67773953/143386070-49044756-17c7-4bb6-b77d-2bc22a0c5ae0.png)
+![Screenshot from 2021-11-25 11-03-38](https://user-images.githubusercontent.com/67773953/143386080-bbef542c-ab76-4bad-9e0d-941c8b31456b.png)
+![Screenshot from 2021-11-25 11-03-11](https://user-images.githubusercontent.com/67773953/143386083-b290e3da-739d-4e3e-9b6b-51b37e2dca5a.png)
